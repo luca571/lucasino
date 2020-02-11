@@ -1,0 +1,18 @@
+.banner{background-image:url("../../images/casinon.jpg");
+		size: cover;
+		background-position: center;
+		color: black;
+		padding:300px 0px;
+		margin: 10px}
+
+.banner h1{font-size:100px ;
+		padding: 5px;
+		   color: white }
+
+.banner p{font-size:30px ;
+		   opacity: 0.5 ;
+		   color: #ffffff}
+
+.banner a{transform-style: none}
+
+
